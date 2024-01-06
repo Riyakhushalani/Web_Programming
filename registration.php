@@ -1,7 +1,7 @@
 <html>
 <body>
 <form action="catch.php" method="get">
-<table bgcolor="pink" align="center">
+<table bgcolor="EEDFDE" align="center">
 <tr><td><th><b>Registration Form</b></th></tr></td>
 <tr><td>Username:</td><td><input type="text" name="usernm"/></td></tr>
 <tr><td>Password:</td><td> <input type="password" name="pwd" required"></td></tr>
